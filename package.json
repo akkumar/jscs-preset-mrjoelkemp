@@ -1,0 +1,24 @@
+{
+  "name": "jscs-preset-mrjoelkemp",
+  "version": "1.0.0",
+  "description": "My JSCS config",
+  "main": "jscs.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrjoelkemp/jscs-preset-mrjoelkemp.git"
+  },
+  "keywords": [
+    "jscs",
+    "preset",
+    "mrjoelkemp"
+  ],
+  "author": "Joel Kemp <joel@mrjoelkemp.com> (http://www.mrjoelkemp.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrjoelkemp/jscs-preset-mrjoelkemp/issues"
+  },
+  "homepage": "https://github.com/mrjoelkemp/jscs-preset-mrjoelkemp#readme"
+}
