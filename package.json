@@ -1,6 +1,6 @@
 {
   "name": "jscs-preset-mrjoelkemp",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "My JSCS config",
   "main": "jscs.json",
   "scripts": {
